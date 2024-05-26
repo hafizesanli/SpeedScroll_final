@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1000384075444",
+    "project_id": "speed-scroll",
+    "storage_bucket": "speed-scroll.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000384075444:android:cade5597fe5b80e7a5a9e1",
+        "android_client_info": {
+          "package_name": "com.example.auth_ui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBm1XU1mOFMIcLz1HuHcPaskGlXcUkIs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000384075444:android:e0e7343ce3fca2c3a5a9e1",
+        "android_client_info": {
+          "package_name": "com.example.speedscroll"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBm1XU1mOFMIcLz1HuHcPaskGlXcUkIs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
